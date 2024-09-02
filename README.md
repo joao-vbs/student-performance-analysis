@@ -8,7 +8,7 @@ Our dataset includes a range of variables such as hours studied, attendance, par
 ## Files
 
 - `student.csv`: The dataset used for analysis.
-- `analysis.ipynb`: Jupyter Notebook containing the data analysis and model training code.
+- `student.ipynb`: Jupyter Notebook containing the data analysis and model training code.
 - `requirements.txt`: List of required Python packages.
 
 ## Instructions
